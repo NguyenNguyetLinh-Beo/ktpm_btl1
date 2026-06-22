@@ -6,6 +6,8 @@
 
 ## Giảng viên hướng dẫn: TS. Nguyễn Tuấn Linh
 
+## link tại đây: https://youtu.be/cMIl7TduIaY
+
 ## Giới thiệu
 
 ## Đây là chương trình thực nghiệm cho đề tài 68: "Spectrum-Based Fault Localization và Suspiciousness Score"
